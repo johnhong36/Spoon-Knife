@@ -1,0 +1,1 @@
+I am still interested about a NBA player ranking web application. I would probably just use a common repository.
